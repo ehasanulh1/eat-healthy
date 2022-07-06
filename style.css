@@ -1,0 +1,30 @@
+body{
+    font-family: 'Gantari', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+.orange-color{
+    color: orange;
+}
+.top-banner{
+    display: flex;
+}
+.top-header-contain{
+    width:;
+    padding: 0 0px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 50px;
+    background-color: orange;
+    color: white;
+}
+.top-img{
+    width: 80%;
+}
+.button{
+    padding-top: 50px;
+}
